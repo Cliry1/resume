@@ -1,0 +1,230 @@
+body{
+    background-color: #F6F6FA;
+    padding: 54px 40px 24px 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width:1200px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.main{
+    padding: 88px;
+    width: 830px;
+}
+.about-me{
+    margin-bottom: 64px;
+}
+.my-prof{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    margin: 0 0 18px 0;
+}
+.me{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+    margin: 0 0 28px 0;
+}
+.my-text{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    width: 525px;
+}
+.all-title{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    color:#000;
+    margin: 50px 0 8px 0;
+}
+.proj-text{
+padding: 0 0 0 16px;
+width: 525px;
+box-sizing: border-box;
+}
+.proj-order{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+.links{
+    color: #005FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    text-decoration-line: underline;
+    margin: 0 0 0 12px;
+}
+.proj-item{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.all-work{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    color:#000;
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+.function{
+    color: #6D9BF5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+.all-time{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    margin: 0 0 8px 0;
+}
+.symbol{
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+.work-list{
+    padding: 0 0 0 16px;
+    margin-top: 0;
+}
+.my-text-work{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    width: 509px;
+}
+.education-title{
+    margin: 42px 0 0 0;
+    color: #000;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.name-education{
+    margin: 12px 0;
+    color: #6D9BF5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.specialty{
+    margin: 12px 0; 
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.time{ 
+    margin: 12px 0 0 0;
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.photo{
+    width:220px;
+    height:400px;
+    margin-top: 40px;
+    padding: 0 40px;
+}
+.sidebar{
+    min-width: 300px;
+    background: #E0EBFE;
+}
+.sidebar-info{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #161D2A;
+    margin-right:8px ;
+}
+.contacts-item{
+    margin: 0;
+}
+.number{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.email{
+    color: #2979FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.side-title{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #161D2A;
+    margin-bottom: 8px;
+}
+.side-info{
+    margin: 48px 0 0 40px;
+
+}
+.skills-list{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}
+.skills-order{
+    color: #6D9BF5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+.skills-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.proj-info{
+    padding: 0 0 0 16px;
+    margin: 0 ;
+    font-weight: 500;
+}
+.role{
+    font-weight: 700;
+}
+.education{
+    margin-bottom: 30px;
+}
